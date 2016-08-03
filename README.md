@@ -3,6 +3,7 @@
 ## TL;DR
 
 - [.editorconfig](http://editorconfig.org/)
+- [.gitignore](https://www.gitignore.io/)
 
 ### HyperText Markup Language
 
