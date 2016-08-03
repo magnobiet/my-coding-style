@@ -21,3 +21,7 @@
 ### Package manager
 - [.bowerrc](https://bower.io/)
 - [.npmrc](https://www.npmjs.com/)
+
+## Licence
+
+[MIT](https://magno.mit-license.org/)
