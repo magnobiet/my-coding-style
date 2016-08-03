@@ -18,12 +18,12 @@
 
 ```js
 // Bad
-a = b + c
-test()
+baz = foo + bar
+foobar()
 
 // Good
-a = b + c;
-test();
+baz = foo + bar;
+foobar();
 ```
 
 #### Variables
@@ -52,8 +52,8 @@ var FOO = 'foo';
 
 ```js
 // Bad
-var string = "<p class='foo'>Lorem Ipsum</p>";
+var foo = "<p class='foo'>Lorem Ipsum</p>";
 
 // Good
-var string = '<p class="foo">Lorem Ipsum</p>';
+var foo = '<p class="foo">Lorem Ipsum</p>';
 ```
