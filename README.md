@@ -1,13 +1,15 @@
 # My Coding Style
 
-## HyperText Markup Language
+## TL;DR
+
+### HyperText Markup Language
 
 ...
 
-## Cascading Style Sheets
+### Cascading Style Sheets
 
 ...
 
-## JavaScript
+### JavaScript
 
 ...
