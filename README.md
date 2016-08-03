@@ -3,7 +3,7 @@
 ## TL;DR
 
 - [.editorconfig](http://editorconfig.org/)
-- [jscsrc](http://jscs.info/)
+- [.jscsrc](http://jscs.info/)
 
 ### HyperText Markup Language
 
