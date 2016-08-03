@@ -2,6 +2,8 @@
 
 ## TL;DR
 
+- [.editorconfig](http://editorconfig.org/)
+
 ### HyperText Markup Language
 
 ...
