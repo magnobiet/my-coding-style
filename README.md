@@ -3,7 +3,6 @@
 ## TL;DR
 
 - [.editorconfig](http://editorconfig.org/)
-- [.jscsrc](http://jscs.info/)
 
 ### HyperText Markup Language
 
@@ -15,46 +14,4 @@
 
 ### JavaScript
 
-#### Semicolons
-
-```js
-// Bad
-baz = foo + bar
-foobar()
-
-// Good
-baz = foo + bar;
-foobar();
-```
-
-#### Variables
-
-```js
-// Bad
-var foo = '';
-var bar = '';
-
-// Good
-var foo = '',
-    bar = '';
-```
-
-##### Constants
-
-```js
-// Bad
-var foo = 'foo';
-
-// Good
-var FOO = 'foo';
-```
-
-#### Strings
-
-```js
-// Bad
-var foo = "<p class='foo'>Lorem Ipsum</p>";
-
-// Good
-var foo = '<p class="foo">Lorem Ipsum</p>';
-```
+- [.jscsrc](http://jscs.info/)
