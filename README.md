@@ -6,11 +6,11 @@
 
 ### HyperText Markup Language
 
-...
+- [.htmlhintrc](http://htmlhint.com/)
 
 ### Cascading Style Sheets
 
-...
+- [.csslintrc](http://csslint.net/)
 
 ### JavaScript
 
