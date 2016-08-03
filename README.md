@@ -15,3 +15,4 @@
 ### JavaScript
 
 - [.jscsrc](http://jscs.info/)
+- [.jshintrc](http://jshint.com/)
