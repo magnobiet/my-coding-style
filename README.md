@@ -17,3 +17,7 @@
 
 - [.jscsrc](http://jscs.info/)
 - [.jshintrc](http://jshint.com/)
+
+### Package manager
+- [.bowerrc](https://bower.io/)
+- [.npmrc](https://www.npmjs.com/)
