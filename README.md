@@ -5,15 +5,15 @@
 - [.editorconfig](http://editorconfig.org/)
 - [.gitignore](https://www.gitignore.io/)
 
-### HyperText Markup Language
+### HyperText Markup Language < />
 
 - [.htmlhintrc](http://htmlhint.com/)
 
-### Cascading Style Sheets
+### Cascading Style Sheets { }
 
 - [.csslintrc](http://csslint.net/)
 
-### JavaScript
+### JavaScript ()
 
 - [.jshintrc](http://jshint.com/)
 
@@ -23,4 +23,4 @@
 
 ## Licence
 
-[MIT](https://magno.mit-license.org/)
+[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://magno.mit-license.org/2016)
