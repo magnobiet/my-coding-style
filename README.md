@@ -3,7 +3,7 @@
 ## TL;DR
 
 - [.editorconfig](.editorconfig) - [:link:](http://editorconfig.org/)
-- [.gitignore](.gitignore)- [:link:](https://www.gitignore.io/)
+- [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
 
 ### HyperText Markup Language < />
 
@@ -18,7 +18,7 @@
 - [.jshintrc](http://jshint.com/)
 
 ### Package manager
-- [.bowerrc](https://bower.io/)
+- [.bowerrc](.bowerrc) - [:link:](https://bower.io/docs/config/#bowerrc-specification)
 - [.npmrc](https://www.npmjs.com/)
 
 ## Licence
