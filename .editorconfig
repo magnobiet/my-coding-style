@@ -8,12 +8,16 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.php]
+[{*.php,*.py}]
 indent_style = space
 indent_size = 4
 
-[*.twig.php]
+[]
 indent_style = tab
+
+[*.php]
+indent_style = space
+indent_size = 4
 
 [{*.json,.*rc,*.yml,*.yaml,*.conf,Vagrantfile}]
 indent_style = space
