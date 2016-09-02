@@ -15,7 +15,7 @@
 
 ### JavaScript ()
 
-- [.jshintrc](http://jshint.com/)
+- [.jshintrc](.jshintrc) - [:link:](http://jshint.com/docs/)
 
 ### Package manager
 - [.bowerrc](.bowerrc) - [:link:](https://bower.io/docs/config/#bowerrc-specification)
