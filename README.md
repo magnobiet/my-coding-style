@@ -7,7 +7,7 @@
 
 ### HyperText Markup Language < />
 
-- [.htmlhintrc](http://htmlhint.com/)
+- [.htmlhintrc](.htmlhintrc) - [:link:](https://github.com/yaniswang/HTMLHint/wiki/Rules)
 
 ### Cascading Style Sheets { }
 
