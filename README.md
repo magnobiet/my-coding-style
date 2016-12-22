@@ -11,7 +11,7 @@
 
 ### Cascading Style Sheets { }
 
-- [.csslintrc](http://csslint.net/)
+- [.csslintrc](.csslintrc) - [:link:](https://github.com/CSSLint/csslint/wiki/Rules-by-ID)
 
 ### JavaScript ()
 
