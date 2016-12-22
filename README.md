@@ -1,7 +1,5 @@
 # My Coding Style
 
-## TL;DR
-
 - [.editorconfig](.editorconfig) - [:link:](http://editorconfig.org/)
 - [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
 
