@@ -1,3 +1,12 @@
+# For more information about the properties used in
+# this file, please see the EditorConfig documentation:
+# http://editorconfig.org/
+#
+# http://www.php-fig.org/psr/psr-2/#overview
+# https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces
+# http://www.yaml.org/start.html
+# https://github.com/github/rubocop-github/blob/master/STYLEGUIDE.md
+
 root = true
 
 [*]
@@ -10,14 +19,6 @@ insert_final_newline = true
 
 [{*.php,*.py}]
 indent_style = space
-indent_size = 4
-
-[]
-indent_style = tab
-
-[*.php]
-indent_style = space
-indent_size = 4
 
 [{*.json,.*rc,*.yml,*.yaml,*.conf,Vagrantfile}]
 indent_style = space
