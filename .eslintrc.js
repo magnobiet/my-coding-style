@@ -6,7 +6,9 @@ module.exports = {
 		"jquery": true
 	},
 	"globals": {
-		"angular": true
+		"_": true,
+		"angular": true,
+		"Vue": true
 	},
 	"extends": [
 		"eslint:recommended",
@@ -16,10 +18,13 @@ module.exports = {
 		"sourceType": "module"
 	},
 	"rules": {
-		"no-console": [
-			"error", {
-				allow: ["log", "warn", "error", "debug"]
-			}
-		]
+		"indent": ["error", "tab"],
+		"linebreak-style": ["error", "unix"],
+		"no-console": ["error", {
+			"allow": ["log", "warn", "error", "debug"]
+		}],
+		"quotes": ["error", "single"],
+		"camelcase": "error",
+		"semi": ["error", "always"],
 	}
 };
