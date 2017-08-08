@@ -22,7 +22,7 @@
 
 ### Package manager
 - [.bowerrc](.bowerrc) - [:link:](https://bower.io/docs/config/#bowerrc-specification)
-- [.npmrc](https://www.npmjs.com/)
+- [.npmrc](.npmrc) - [:link:](https://docs.npmjs.com/files/npmrc)
 
 ## Licence
 
