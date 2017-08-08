@@ -1,5 +1,7 @@
 # My Coding Style
 
+	Every line of code should appear to be written by a single person, no matter the number of contributors.
+
 - [.editorconfig](.editorconfig) - [:link:](http://editorconfig.org/)
 - [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
 
