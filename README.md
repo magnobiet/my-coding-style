@@ -3,6 +3,10 @@
 	Every line of code should appear to be written by a single person, no matter the number of contributors.
 
 - [.editorconfig](.editorconfig) - [:link:](http://editorconfig.org/)
+
+### Git
+
+- [.gitmessage](.gitmessage) - [:link:](https://chris.beams.io/posts/git-commit/)
 - [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
 
 ### HyperText Markup Language < />
