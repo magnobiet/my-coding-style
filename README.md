@@ -34,4 +34,4 @@
 
 ## Licence
 
-[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://magno.mit-license.org/2016)
+This project is licensed under the [MIT License](https://magno.mit-license.org/2016). Copyright © Magno Biét
