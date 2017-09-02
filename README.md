@@ -8,6 +8,8 @@
 
 - [.gitmessage](.gitmessage) - [:link:](https://chris.beams.io/posts/git-commit/)
 - [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
+- Semantic Versioning - [:link:](http://semver.org/)
+- Git Flow - [:link:](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ### HyperText Markup Language < />
 
