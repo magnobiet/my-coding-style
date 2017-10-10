@@ -1,4 +1,4 @@
-### Changelog :memo:
+## Changelog :memo:
 
 Changes proposed in this pull request:
 
@@ -10,7 +10,7 @@ Closes #123, #456
 
 ---
 
-### Bugfixes :bug:
+## Bugfixes :bug:
 
 - 
 
