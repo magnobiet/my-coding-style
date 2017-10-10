@@ -21,15 +21,15 @@
 
 ### JavaScript ()
 
-- [.jshintrc](.jshintrc) - [:link:](http://jshint.com/docs/)
-- [.eslintrc](.eslintrc.js) - [:link:](http://eslint.org/docs/user-guide/configuring#using-configuration-files)
+- ~[.jshintrc](.jshintrc) - [:link:](http://jshint.com/docs/)~
+- [.eslintrc.js](.eslintrc.js) - [:link:](http://eslint.org/docs/user-guide/configuring#using-configuration-files)
 
 ### Node.js
 
 - [.nvmrc](.nvmrc) - [:link:](https://github.com/creationix/nvm#nvmrc)
 
 ### Package manager
-- [.bowerrc](.bowerrc) - [:link:](https://bower.io/docs/config/#bowerrc-specification)
+- ~[.bowerrc](.bowerrc) - [:link:](https://bower.io/docs/config/#bowerrc-specification)~
 - [.npmrc](.npmrc) - [:link:](https://docs.npmjs.com/files/npmrc)
 
 ## Licence
