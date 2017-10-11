@@ -1,5 +1,4 @@
-# `git commit` message
-
+# `git commit` message styleguide
 
 ## The reasons for these conventions
 
