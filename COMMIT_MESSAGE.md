@@ -60,9 +60,8 @@ git log <LAST_TAG> HEAD --pretty=format:%s
 
 New features in this release
 
-
 ```bash
-git log <LAST_RELEASE> HEAD --grep feature
+git log <LAST_RELEASE> HEAD --grep feat
 ```
 
 ## References
