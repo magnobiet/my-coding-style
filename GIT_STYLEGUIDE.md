@@ -74,6 +74,7 @@ git log <LAST_RELEASE> HEAD --grep feat
 
 - http://nvie.com/posts/a-successful-git-branching-model/
 - https://github.com/petervanderdoes/gitflow-avh
+- http://semver.org/
 - https://chris.beams.io/posts/git-commit/
 - https://karma-runner.github.io/1.0/dev/git-commit-msg.html
 - https://github.com/dannyfritz/commit-message-emoji
