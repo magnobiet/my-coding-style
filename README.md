@@ -6,16 +6,13 @@
 
 - [.editorconfig](.editorconfig) - [:link:](http://editorconfig.org/)
 
-## Readme
-
-- [README.md sample](https://github.com/wearehive/project-guidelines/blob/master/README.sample.md)
-
 ## Git
 
 - [.gitmessage](.gitmessage) - [:link:](https://chris.beams.io/posts/git-commit/)
 - [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
 - Semantic Versioning - [:link:](http://semver.org/)
-- Git Flow - [:link:](http://nvie.com/posts/a-successful-git-branching-model/)
+
+[More on Wiki](https://github.com/magnobiet/my-coding-style/wiki/Git-styleguide)
 
 ## HyperText Markup Language < />
 
