@@ -1,3 +1,5 @@
+![I Will Follow The Rules](https://image.ibb.co/mkdvdR/i_will_follow_the_rules.jpg)
+
 # My Coding Style
 
 > Every line of code should appear to be written by a single person, no matter the number of contributors.
