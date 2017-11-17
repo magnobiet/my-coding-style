@@ -4,31 +4,35 @@
 
 - [.editorconfig](.editorconfig) - [:link:](http://editorconfig.org/)
 
-### Git
+## Readme
+
+- [README.md sample](https://github.com/wearehive/project-guidelines/blob/master/README.sample.md)
+
+## Git
 
 - [.gitmessage](.gitmessage) - [:link:](https://chris.beams.io/posts/git-commit/)
 - [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
 - Semantic Versioning - [:link:](http://semver.org/)
 - Git Flow - [:link:](http://nvie.com/posts/a-successful-git-branching-model/)
 
-### HyperText Markup Language < />
+## HyperText Markup Language < />
 
 - [.htmlhintrc](.htmlhintrc) - [:link:](https://github.com/yaniswang/HTMLHint/wiki/Rules)
 
-### Cascading Style Sheets { }
+## Cascading Style Sheets { }
 
 - [.csslintrc](.csslintrc) - [:link:](https://github.com/CSSLint/csslint/wiki/Rules-by-ID)
 
-### JavaScript ()
+## JavaScript ()
 
 - ~[.jshintrc](.jshintrc) - [:link:](http://jshint.com/docs/)~
 - [.eslintrc.js](.eslintrc.js) - [:link:](http://eslint.org/docs/user-guide/configuring#using-configuration-files)
 
-### Node.js
+## Node.js
 
 - [.nvmrc](.nvmrc) - [:link:](https://github.com/creationix/nvm#nvmrc)
 
-### Package manager
+## Package manager
 - ~[.bowerrc](.bowerrc) - [:link:](https://bower.io/docs/config/#bowerrc-specification)~
 - [.npmrc](.npmrc) - [:link:](https://docs.npmjs.com/files/npmrc)
 
