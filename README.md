@@ -35,6 +35,6 @@
 - ~[.bowerrc](.bowerrc) - [:link:](https://bower.io/docs/config/#bowerrc-specification)~
 - [.npmrc](.npmrc) - [:link:](https://docs.npmjs.com/files/npmrc)
 
-## Licence
+## license
 
 This project is licensed under the [MIT License](https://magno.mit-license.org/2016). Copyright © Magno Biét
