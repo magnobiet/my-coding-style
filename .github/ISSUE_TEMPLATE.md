@@ -16,6 +16,6 @@ I tested on all major browsers and only '...' does not work.
 
 ## Steps to Reproduce
 
-1. 
-2. 
-3. 
+1.
+2.
+3.

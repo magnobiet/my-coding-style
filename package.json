@@ -1,0 +1,43 @@
+{
+  "name": "my-coding-style",
+  "version": "0.1.0",
+  "description": "I Will Follow The Rules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint": "eslint src/**/*.js",
+    "lint:fix": "npm run lint -- --fix",
+    "lint:sass": "sass-lint -c ./.sass-lint.yml './src/**/*.scss' --verbose --no-exit",
+    "lint:sass:fix": "sass-lint-auto-fix",
+    "lint:editorconfig": "eclint check $(git ls-files)",
+    "lint:editorconfig:fix": "eclint fix $(git ls-files)",
+    "bump:major": "bump package.json --quiet --major",
+    "bump:minor": "bump package.json --quiet --minor",
+    "bump:patch": "bump package.json --quiet --patch",
+    "bump:prelease": "bump package.json --quiet --prerelease",
+    "bump:prelease:major": "bump package.json --quiet --premajor",
+    "bump:prelease:minor": "bump package.json --quiet --preminor",
+    "bump:prelease:patch": "bump package.json --quiet --prepatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnobiet/my-coding-style.git"
+  },
+  "keywords": [],
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnobiet/my-coding-style/issues"
+  },
+  "homepage": "https://github.com/magnobiet/my-coding-style#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^7.5.2",
+    "@commitlint/config-conventional": "^7.5.0",
+    "bump-cli": "^1.1.3",
+    "eclint": "^2.8.1",
+    "eslint": "^5.16.0",
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.5",
+    "sass-lint": "^1.12.1",
+    "sass-lint-auto-fix": "^0.16.2"
+  }
+}

@@ -11,6 +11,7 @@
 - [.gitmessage](.gitmessage) - [:link:](https://chris.beams.io/posts/git-commit/)
 - [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
 - Semantic Versioning - [:link:](http://semver.org/)
+- Conventional Commits - [:link:](https://www.conventionalcommits.org/)
 
 [More on Wiki](https://github.com/magnobiet/my-coding-style/wiki/Git-styleguide)
 
@@ -21,10 +22,10 @@
 ## Cascading Style Sheets { }
 
 - [.csslintrc](.csslintrc) - [:link:](https://github.com/CSSLint/csslint/wiki/Rules-by-ID)
+- [.sass-lint.yml](.sass-lint.yml) - [:link:](https://github.com/sasstools/sass-lint/tree/master/docs/rules)
 
 ## JavaScript ()
 
-- ~[.jshintrc](.jshintrc) - [:link:](http://jshint.com/docs/)~
 - [.eslintrc.js](.eslintrc.js) - [:link:](http://eslint.org/docs/user-guide/configuring#using-configuration-files)
 
 ## Node.js
@@ -32,7 +33,7 @@
 - [.nvmrc](.nvmrc) - [:link:](https://github.com/creationix/nvm#nvmrc)
 
 ## Package manager
-- ~[.bowerrc](.bowerrc) - [:link:](https://bower.io/docs/config/#bowerrc-specification)~
+
 - [.npmrc](.npmrc) - [:link:](https://docs.npmjs.com/files/npmrc)
 
 ## License

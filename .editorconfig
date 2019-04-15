@@ -23,3 +23,9 @@ indent_style = space
 [{*.json,.*rc,*.yml,*.yaml,*.conf,Vagrantfile}]
 indent_style = space
 indent_size = 2
+
+# https://github.com/jedmao/eclint#block_comment
+[*.{ts,scss}]
+block_comment_start = /*
+block_comment = *
+block_comment_end = */

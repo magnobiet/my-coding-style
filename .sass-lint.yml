@@ -1,0 +1,217 @@
+options:
+  merge-default-rules: true
+  max-warnings: 0
+
+files:
+  include:
+    - 'src/styles/**/*.s+(a|c)ss'
+  ignore:
+    - 'node_modules/**/*.s+(a|c)ss'
+
+rules:
+  no-vendor-prefixes: 0
+  no-important: 0
+  leading-zero: 0
+  no-ids: 0
+  clean-import-paths: 0
+  no-qualifying-elements: 0
+  declarations-before-nesting: 0
+  force-element-nesting: 0
+  force-pseudo-nesting: 0
+  force-attribute-nesting: 0
+  hex-length:
+    - 1
+    - style: long
+  nesting-depth:
+    - 1
+    - max-depth: 7
+  zero-unit: 1
+  attribute-quotes:
+    - 1
+    - include: true
+  no-warn: 0
+  no-color-literals:
+    - 0
+    - allow-rgba: true
+  mixins-before-declarations: 1
+  property-sort-order:
+    - 1
+    - order:
+      - 'content'
+      - 'appearance'
+      -
+      - 'display'
+      - 'position'
+      - 'top'
+      - 'right'
+      - 'bottom'
+      - 'left'
+      - 'z-index'
+      -
+      - 'grid'
+      - 'grid-area'
+      - 'grid-auto-columns'
+      - 'grid-auto-flow'
+      - 'grid-auto-rows'
+      - 'grid-column'
+      - 'grid-column-end'
+      - 'grid-column-start'
+      - 'grid-row'
+      - 'grid-row-end'
+      - 'grid-row-start'
+      - 'grid-template'
+      - 'grid-template-areas'
+      - 'grid-template-columns'
+      - 'grid-template-rows'
+      - 'flex'
+      - 'flex-basis'
+      - 'flex-direction'
+      - 'flex-flow'
+      - 'flex-grow'
+      - 'flex-shrink'
+      - 'flex-wrap'
+      - 'align-content'
+      - 'align-items'
+      - 'align-self'
+      - 'justify-content'
+      - 'justify-items'
+      - 'justify-self'
+      - 'order'
+      - 'float'
+      - 'clear'
+      - 'direction'
+      - 'visibility'
+      - 'opacity'
+      -
+      - 'width'
+      - 'height'
+      - 'max-width'
+      - 'max-height'
+      - 'min-width'
+      - 'min-height'
+      - 'padding'
+      - 'padding-top'
+      - 'padding-right'
+      - 'padding-bottom'
+      - 'padding-left'
+      - 'margin'
+      - 'margin-top'
+      - 'margin-right'
+      - 'margin-bottom'
+      - 'margin-left'
+      - 'transform'
+      - 'transform-origin'
+      - 'transform-style'
+      - 'overflow'
+      - 'overflow-x'
+      - 'overflow-y'
+      - 'overflow-wrap'
+      - 'clip'
+      -
+      - 'color'
+      - 'font'
+      - 'font-family'
+      - 'src'
+      - 'font-size'
+      - 'font-size-adjust'
+      - 'font-weight'
+      - 'font-style'
+      - 'font-kerning'
+      - 'font-feature-settings'
+      - 'font-language-override'
+      - 'font-max-size'
+      - 'font-min-size'
+      - 'font-optical-sizing'
+      - 'font-palette'
+      - 'font-presentation'
+      - 'font-stretch'
+      - 'font-synthesis'
+      - 'font-variant'
+      - 'font-variant-alternates'
+      - 'font-variant-caps'
+      - 'font-variant-east-asian'
+      - 'font-variant-ligatures'
+      - 'font-variant-numeric'
+      - 'font-variant-position'
+      - 'font-variation-settings'
+      - 'text'
+      - 'text-align'
+      - 'text-decoration'
+      - 'text-decoration-color'
+      - 'text-decoration-line'
+      - 'text-decoration-skip'
+      - 'text-decoration-style'
+      - 'text-indent'
+      - 'text-overflow'
+      - 'text-rendering'
+      - 'text-size-adjust'
+      - 'text-shadow'
+      - 'text-transform'
+      - 'text-orientation'
+      - 'text-justify'
+      - 'text-wrap'
+      - 'text-align-last'
+      - 'text-combine-upright'
+      - 'text-emphasis'
+      - 'text-emphasis-color'
+      - 'text-emphasis-position'
+      - 'text-emphasis-style'
+      - 'text-space-collapse'
+      - 'text-underline-position'
+      - 'line-height'
+      - 'letter-spacing'
+      - 'word-spacing'
+      - 'word-break'
+      - 'word-wrap'
+      - 'hyphens'
+      - 'white-space'
+      - 'vertical-align'
+      -
+      - 'background'
+      - 'background-color'
+      - 'background-image'
+      - 'background-repeat'
+      - 'background-position'
+      - 'background-size'
+      - 'background-attachment'
+      - 'background-clip'
+      - 'background-origin'
+      - 'border'
+      - 'border-color'
+      - 'border-style'
+      - 'border-top'
+      - 'border-right'
+      - 'border-bottom'
+      - 'border-left'
+      - 'border-width'
+      - 'border-top-width'
+      - 'border-top-color'
+      - 'border-top-style'
+      - 'border-right-width'
+      - 'border-right-color'
+      - 'border-right-style'
+      - 'border-bottom-width'
+      - 'border-bottom-color'
+      - 'border-bottom-style'
+      - 'border-left-width'
+      - 'border-left-color'
+      - 'border-left-style'
+      - 'border-radius'
+      - 'border-top-right-radius'
+      - 'border-bottom-right-radius'
+      - 'border-bottom-left-radius'
+      - 'border-top-left-radius'
+      - 'border-radius-topright'
+      - 'border-radius-bottomright'
+      - 'border-radius-bottomleft'
+      - 'border-radius-topleft'
+      - 'border-collapse'
+      - 'border-image'
+      - 'border-image-outset'
+      - 'border-image-repeat'
+      - 'border-image-slice'
+      - 'border-image-source'
+      - 'border-image-width'
+      - 'border-spacing'
+      - 'box-shadow'
+      - 'box-sizing'
