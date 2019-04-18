@@ -16,7 +16,8 @@
     "bump:prelease": "bump package.json --quiet --prerelease",
     "bump:prelease:major": "bump package.json --quiet --premajor",
     "bump:prelease:minor": "bump package.json --quiet --preminor",
-    "bump:prelease:patch": "bump package.json --quiet --prepatch"
+    "bump:prelease:patch": "bump package.json --quiet --prepatch",
+    "dependencies:gui": "npx npm-gui"
   },
   "repository": {
     "type": "git",
