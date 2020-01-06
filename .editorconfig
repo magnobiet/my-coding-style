@@ -20,7 +20,7 @@ insert_final_newline = true
 [{*.php,*.py}]
 indent_style = space
 
-[{*.json,.*rc,*.yml,*.yaml,*.conf,Vagrantfile}]
+[{*.json,.*rc,*.y*ml,*.conf}]
 indent_style = space
 indent_size = 2
 
