@@ -1,4 +1,4 @@
-// https://www.npmjs.com/package/husky
+/* eslint-env es6, node */
 
 function tasks(commands) {
 	return commands.join(' && ');
