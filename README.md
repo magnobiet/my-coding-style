@@ -10,6 +10,7 @@
 
 - [.gitmessage](.gitmessage) - [:link:](https://chris.beams.io/posts/git-commit/)
 - [.gitignore](.gitignore) - [:link:](https://www.gitignore.io/)
+- [lint-staged.config.js](lint-staged.config.js) - [:link:](https://github.com/okonet/lint-staged)
 - Semantic Versioning - [:link:](http://semver.org/)
 - Conventional Commits - [:link:](https://www.conventionalcommits.org/)
 
