@@ -1,6 +1,6 @@
-![I Will Follow The Rules](https://image.ibb.co/mkdvdR/i_will_follow_the_rules.jpg)
-
 # My Coding Style
+
+![I Will Follow The Rules](https://image.ibb.co/mkdvdR/i_will_follow_the_rules.jpg)
 
 > Every line of code should appear to be written by a single person, no matter the number of contributors.
 
@@ -35,6 +35,10 @@
 ## Package manager
 
 - [.npmrc](.npmrc) - [:link:](https://docs.npmjs.com/files/npmrc)
+
+## Markdown
+
+- [.markdownlint.json](.markdownlint.json) - [:link:](https://github.com/DavidAnson/markdownlint#rules--aliases)
 
 ## License
 
