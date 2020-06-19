@@ -33,8 +33,8 @@
   },
   "homepage": "https://github.com/magnobiet/my-coding-style#readme",
   "devDependencies": {
-    "@commitlint/cli": "^7.5.2",
-    "@commitlint/config-conventional": "^7.5.0",
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-angular": "^8.3.4",
     "bump-cli": "^1.1.3",
     "dockerfilelint": "^1.5.0",
     "eclint": "^2.8.1",

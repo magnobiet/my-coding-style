@@ -1,3 +1,5 @@
+/* eslint-env es6, node */
+
 module.exports = {
-	extends: ['@commitlint/config-conventional']
+	extends: ['@commitlint/config-angular']
 };
