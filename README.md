@@ -36,6 +36,11 @@
 
 - [.npmrc](.npmrc) - [:link:](https://docs.npmjs.com/files/npmrc)
 
+## Docker
+
+- [.dockerfilelintrc](.dockerfilelintrc) - [:link:](https://github.com/replicatedhq/dockerfilelint)
+- [.dockerignore](.dockerignore) - [:link:](https://docs.docker.com/engine/reference/builder/#dockerignore-file)
+
 ## Markdown
 
 - [.markdownlint.json](.markdownlint.json) - [:link:](https://github.com/DavidAnson/markdownlint#rules--aliases)
